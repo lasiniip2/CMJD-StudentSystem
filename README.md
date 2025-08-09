@@ -8,7 +8,7 @@ Completed as a part of IJSE CMJD-module 1 coursework.
 - Add / Update Marks  
 - View Student Details & Ranks  
 - Show Best in PRF & DBMS  
-
+<!--
 ## Preview
-![Preview](images/preview.png)
+![Preview](images/preview.png)-->
 
